@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Poppins-Regular, sans-serif;
+      
+}
+body{
+
+     
+      background-image: linear-gradient(101deg, #ffd7fc, #aa98ff);
+}
+header p{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 500;
+      font-size: xxx-large;
+      font-style: italic;
+      margin-top: 20px;
+}
+.btn{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.btn button{
+  padding:10px 20px;
+  border-radius: 5px;
+  border: none;
+}
+.btn button:hover{
+      text-decoration: underline;
+      cursor: pointer;
+      color: white;
+      
+}
+.myheader p{
+      text-decoration:underline;
+      color: black;
+      font-weight: 500;
+
+}
+
+
+
